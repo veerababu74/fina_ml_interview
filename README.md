@@ -283,7 +283,7 @@ ml-interview-guide/
 │   ├── 04_knn.md
 │   ├── 05_naive_bayes.md
 │   └── 06_regularization_l1_l2_elasticnet.md
-├── 02_tree_methods/
+├── 02_tree_based_models/
 ├── 03_unsupervised_learning/
 ├── 04_neural_networks/
 ├── 05_evaluation_metrics/
